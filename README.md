@@ -1,2 +1,2 @@
-# npt.github.io
+http://npt.github.io
 Group website

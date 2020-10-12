@@ -1,3 +1,3 @@
-https://purevnorov.github.io/npt.github.io/
+https://purevnorov.github.io/npt.github.io/NPT
 
 Group website

@@ -1,0 +1,52 @@
+.card{
+	display: flex;
+	padding: 20px;
+	border
+}
+ul {
+    width: 960px;
+    display: table;
+    table-layout: fixed;
+}
+ul li {
+    display: table-cell;
+}
+ul li a {
+    display: block;
+}
+.card1{
+ width: 200px;
+ padding: 50px 0px;
+ background-color: blue;
+ opacity: 0.7;
+ transition: opacity 2s;
+ text-align: center;
+ color: white ;
+}
+.card2{
+ width: 200px;
+ padding: 50px 0px;
+ background-color: blue;
+ opacity: 0.7;
+ transition: opacity 2s;
+ text-align: center;
+ color: white ;
+}
+.card3{
+ width: 200px;
+ padding: 50px 0px;
+ background-color: blue;
+ opacity: 0.7;
+ transition: opacity 2s;
+ text-align: center;
+ color: white ;
+}
+.card4{
+ width: 200px;
+ padding: 50px 0px;
+ background-color: blue;
+ opacity: 0.7;
+ transition: opacity 2s;
+ text-align: center;
+ color: white ;
+}

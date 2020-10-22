@@ -1,26 +1,26 @@
-	div.card {
+	.card {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
   width: 180px;
 }
 
-div.card:hover {
+.card:hover {
   border: 1px solid #777;
 }
 
-div.card img {
+.card img {
   width: 100%;
   height: auto;
   display: fixed;
   
 }
 
-div.desc {
+.desc {
   padding: 15px;
   text-align: center;
 }
 img{
 	width: 100px;
-	height: 2s00px;
+	height: 200px;
 }

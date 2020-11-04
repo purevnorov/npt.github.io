@@ -8,29 +8,35 @@
 </head>
 <body>
     <div class="first-page-container">
-
-        <header class="navhead">
-            <nav>
+        <header class="nav">
+            <nav aria-label="Primary">
                 <ul class="menu">
+                    <li>
+                        <a href="#" title="nav">                            
+                            <img src="hamburger.svg" alt="nav">                            
+                    </a>
+                    </li>
                     <li class="logo">
-                        <a href="/NPT.html" title="NPT Home">
-                            <img class="logoSVG" src="logo.svg" alt="Logo">
+                        <a href="/" title="Home">
+                            <img src="logo.svg" alt="Logo">
                         </a>
                     </li>
-                    <li class="searchBar">
-                        <form>                    
-                        <input type="search" placeholder="Хайх"/>                        
-                        <button type="submit">Хайх</button>
+                    <li>
+                        <form role="search" aria-label="site">
+                        <label>
+                        <span>хайх</span>
+                        <input type="search"/>
+                        </label>
+                        <button type="submit">хайх</button>
                         </form>
                     </li>  
                     <li class="item"><a href="service.html">Үйлчилгээ</a></li>
                     <li class="item"><a href="prizes.html">Урамшуулал</a></li>
                     <li class="item"><a href="help.html">Тусламж</a></li>
-                    <li class="item"><a href="signup.html">Нэвтрэх</a></li>
+                    <li class="item"><a href="SignUpLogIn.html">Нэвтрэх</a></li>
                 </ul>
             </nav>
         </header>
-
         <main>
             <div id="slideshow">
                 <div class="slide">
@@ -43,7 +49,6 @@
                     <img src="main3.png" alt="main3">
                 </div>    
             </div>
-            
             <section>
                 <h4>Онцлох брендүүд</h4>
                 <div class="card-1">card</div>
@@ -52,7 +57,6 @@
                 <div class="card-4">card</div>
             </section>
         </main>
-
         <footer>
             <ul>
                 <li><a href="#">Footer link</a></li>
